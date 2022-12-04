@@ -45,5 +45,5 @@ Open Neovim and in command mode
 2. Install coc extensions that you require, example:
 
 ```
-:CocInstall coc-emmet coc-pairs coc-phpls coc-tsserver coc-html coc-css
+:CocInstall coc-emmet coc-pairs coc-phpls coc-tsserver coc-html coc-css coc-json
 ```
